@@ -2,9 +2,11 @@ This repository contains a list of works happened on the Temporal Dynamic Graphs
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
- AAAI Work: https://github.com/tonygracious/RRHyperTPP_AAAI2025 
+ AAAI Work:
  
-            https://github.com/tonygracious/DynHyperNodeTPP_AAAI2025
+  https://github.com/tonygracious/RRHyperTPP_AAAI2025 
+ 
+  https://github.com/tonygracious/DynHyperNodeTPP_AAAI2025
 
 # Foundational models for graph link prediction problems
 ## key questions
